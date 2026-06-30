@@ -43,7 +43,4 @@ integração de sistemas operacionais e arquitetura de automações para gerar e
 
 ---
 
-### 📊 GitHub Stats
-![Status do GitHub do Walter](https://github-readme-stats.vercel.app/api?username=walterbigoni&show_icons=true&theme=radical)
-
 📫 **Como me encontrar:** | [Meu LinkedIn](https://www.linkedin.com/in/walterbigoni/)
